@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+
+
+    .max-h-0 {
+        max-height: 0;
+    }
+
+}
+
+
